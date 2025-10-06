@@ -111,7 +111,7 @@ export default function Form() {
 
   return (
     <div className="w-[40rem] h-[40rem] mb-[3rem] sm:mb-[0rem] flex flex-col justify-center items-center  relative">
-      <div className="bg-[#5d54a3] text-[#ffffff] flex justify-center items-center relative top-[-1rem] w-full h-[6rem] md:h-[3rem] rounded-[0.5rem] shadow-[0_10px_0_rgba(0,0,0,0.10),0_10px_30px_rgba(0,0,0,0.20)]">
+      <div className="bg-[#5d54a3] text-[#ffffff] flex justify-center items-center relative top-[-1rem] w-full h-[6rem] md:h-[3rem] rounded-[0.5rem] shadow-[0_9px_0_rgba(0,0,0,0.10),0_10px_30px_rgba(0,0,0,0.20)]">
         <p className="text-center">
           <b className="px-1">Try it free 7 days</b> then $20/mo. thereafter
         </p>
@@ -221,7 +221,7 @@ export default function Form() {
 
         <button
           type="submit"
-          className="w-full h-[4rem] md:h-[3rem] rounded-[0.5rem] bg-[#37cc8a] text-white uppercase font-semibold shadow-[0_10px_0_rgba(0,0,0,0.10),0_10px_30px_rgba(0,0,0,0.20)]"
+          className="w-full h-[4rem] md:h-[3rem] rounded-[0.5rem] bg-[#37cc8a] text-white uppercase font-semibold shadow-[0_9px_0_rgba(0,0,0,0.10),0_10px_30px_rgba(0,0,0,0.20)]"
         >
           Claim your free trial
         </button>
