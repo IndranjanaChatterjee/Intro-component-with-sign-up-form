@@ -14,7 +14,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Recipe-page)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Intro-component-with-sign-up-form)
 - Live Site URL: [live site URL](https://recipe-page-one-amber.vercel.app/)
 
 
@@ -35,7 +35,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 ## Author
 
 - Website - [Add your name here](https://github.com/IndranjanaChatterjee/Recipe-page)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
+- Frontend Mentor - [Indranjana Chatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
 
